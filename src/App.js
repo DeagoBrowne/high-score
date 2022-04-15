@@ -4,7 +4,7 @@ import HighScores from "./HighScores";
 
 
 function App() {
-  return (<HighScores scores = {allCountryScores}/>);
+  return (<HighScores scores={allCountryScores} />);
 }
 
 export default App;
